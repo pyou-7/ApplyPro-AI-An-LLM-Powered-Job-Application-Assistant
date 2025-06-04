@@ -64,11 +64,6 @@ Job seekers often struggle with:
 
 ---
 
-## 🧪 Demo & Screenshots
-Coming soon...
-
----
-
 ## 👥 Contributors
 - Jialin You  
 - Xinghua Peng  
