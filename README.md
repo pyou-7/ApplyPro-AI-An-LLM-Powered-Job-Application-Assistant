@@ -41,8 +41,10 @@ Job seekers often struggle with:
 
 ## 🚀 How It Works
 1. **Upload** your resume (PDF).
-2. **Match**: Your resume is embedded and compared against job post vectors via cosine similarity.
-3. **Generate**: The app outputs the top 3 job matches, a custom cover letter, and a cold email to the recruiter.
+![User Interface](Architecture%20and%20Demo%20Images/UI.png)
+3. **Match**: Your resume is embedded and compared against job post vectors via cosine similarity.
+4. **Generate**: The app outputs the top 3 job matches, a custom cover letter, and a cold email to the recruiter.
+![Demo](Architecture%20and%20Demo%20Images/Demo.png)
 
 ---
 
