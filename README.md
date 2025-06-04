@@ -3,7 +3,7 @@
 ## 🔍 Overview
 **ApplyPro.ai** is an AI-powered tool that automates the job application process. It parses resumes, matches them to relevant job postings using semantic search, and generates personalized cover letters and recruiter emails — dramatically reducing manual effort for job seekers while improving match quality and communication.
 The process to use the application is described in the flowchart below:
-
+![Solution Architecture](Architecture%20and%20Demo%20Images/Solution%20Architecture.png)
 ---
 
 ## 🎯 Business Problem
