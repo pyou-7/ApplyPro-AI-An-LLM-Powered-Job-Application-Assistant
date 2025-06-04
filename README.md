@@ -8,6 +8,14 @@ The process to use the application is described in the flowchart below:
 
 ---
 
+## 📊 Dataset
+
+This project uses job posting data from Kaggle:
+
+🔗 [LinkedIn Job Postings – Kaggle Dataset](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?resource=download)
+
+---
+
 ## 🎯 Business Problem
 Job seekers often struggle with:
 - Manually searching for relevant job roles
